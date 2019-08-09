@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Gushen {
+public class 股神 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         System.out.println("请输入天数n：");

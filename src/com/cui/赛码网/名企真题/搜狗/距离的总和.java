@@ -1,4 +1,4 @@
-package com.cui.往届题练习.搜狗;
+package com.cui.赛码网.名企真题.搜狗;
 
 import java.util.ArrayList;
 import java.util.Scanner;

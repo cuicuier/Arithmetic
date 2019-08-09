@@ -1,7 +1,7 @@
 package com.cui.赛码网.基本算法;
 
 
-public class YueDeEr {
+public class 约德尔测试 {
     public static void main(String[] args) {
 //        Scanner sc=new Scanner(System.in);
 //        String str = sc.nextLine();

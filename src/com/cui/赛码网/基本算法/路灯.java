@@ -2,7 +2,7 @@ package com.cui.赛码网.基本算法;
 
 import java.util.*;
 
-public class Ludeng {
+public class 路灯 {
 
     /**
      *题目描述
